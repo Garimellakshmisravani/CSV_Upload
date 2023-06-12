@@ -9,8 +9,5 @@ This is an example of how to list things you need to use the software and how to
 ## npm
 npm install npm@latest -g
 
-# CSV-Upload
-1. Clone the repo
-## https://github.com/saikrishnamadasu440/CSV-PROJECT
 2. Install NPM packages
 ## npm install
